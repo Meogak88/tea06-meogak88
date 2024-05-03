@@ -1,6 +1,6 @@
 {
   "name": "tea06-meogak88",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tea protocol",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "url": "https://github.com/Meogak88/tea06-meogak88.git"
   },
   "dependencies": {
+    "api-chatfb": "^0.0.1-security",
     "bip39": "^3.1.0",
     "ethereumjs-wallet": "^1.0.2",
     "ethers": "^5.5.0",
